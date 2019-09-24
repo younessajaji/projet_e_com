@@ -1,0 +1,34 @@
+blog
+galerie video
+formulaire
+sondage
+compteur visites
+newsletter
+compte:choix
+activer promotion
+
+Administrateur:
+
+
+
+
+idées.
+1-les box:
+allô maman bobo
+2- Vêtements: vêtements personnalisés sans stockage
+1ntik
+3-
+
+Etapes.
+
+
+site: quora.com
+Well doing so is quite simple. Just follow these steps.
+
+1. Get a wampp or xampp server installed on your computer to create a local server.
+2. Use html, css or any other tool for building the front end of your website.
+3. Make a database using MySQL provided by the local server which you just installed.
+4. Connect to the database using php script.
+Write the required php function and link your files accordingly.
+5. Prefer keeping all your files with .php extension.
+6. Refer http://www.php.net, http://www.mysql.com, http://www.tutorialspoint.com, http://www.w3schools.com for your syntax relates queries.
